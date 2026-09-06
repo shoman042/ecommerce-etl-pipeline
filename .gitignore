@@ -1,0 +1,7 @@
+*.log
+*.csv
+*.parquet
+__pycache__/
+*.pyc
+derby.log
+metastore_db/

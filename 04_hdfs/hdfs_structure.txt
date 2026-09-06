@@ -1,0 +1,10 @@
+drwxrwxrwx   - student supergroup          0 2026-09-06 21:47 /staging_zone/ecommerce/customers
+-rw-r--r--   1 root    supergroup    8216952 2026-09-06 21:47 /staging_zone/ecommerce/customers/5dc069f8-5318-44c1-a546-47d61d63d958
+drwxr-xr-x   - root    supergroup          0 2026-09-06 22:21 /staging_zone/ecommerce/order_items
+-rw-r--r--   1 root    supergroup   58235251 2026-09-06 22:21 /staging_zone/ecommerce/order_items/4f2bcdd2-0c61-4e42-b7ae-d706ce9fd252
+drwxr-xr-x   - root    supergroup          0 2026-09-06 22:18 /staging_zone/ecommerce/orders
+-rw-r--r--   1 root    supergroup   25586242 2026-09-06 22:18 /staging_zone/ecommerce/orders/5e10ba18-e143-421a-894b-fbaa3b8e6c66
+drwxr-xr-x   - root    supergroup          0 2026-09-06 22:22 /staging_zone/ecommerce/payments
+-rw-r--r--   1 root    supergroup   29670363 2026-09-06 22:22 /staging_zone/ecommerce/payments/7ce97879-7e7d-4efd-9e23-96ba822af3d8
+drwxr-xr-x   - root    supergroup          0 2026-09-06 22:11 /staging_zone/ecommerce/products
+-rw-r--r--   1 root    supergroup    1187534 2026-09-06 22:11 /staging_zone/ecommerce/products/224d0346-1f63-440e-af34-629b733986a1
